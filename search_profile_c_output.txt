@@ -1,0 +1,848 @@
+Google Maps Search near latitude 41.885033, longitude -87.784500 for Search Profile C:
+
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCFwEAAC0ze88ZCKTBjzJBGzc9Wr1KvFbepcbgQUhLp728sS6XtyV7sI0mwfKXIVk2nT66I38NOB6BwepUidCk8jKsTBfCNqZkcKZdDh6Ky8sRx7hSz1yc8FRr1mPbSiNVbreSX8R9TBkNiymuLB05KTRvDyPW1IF43VK8_P_aYMA24u2chfoe0LmiFxyMbYe_zjcTFIC8io8sLdTpFxJHc1WkHiuNefsRawBjST_aOAbgTw6dZVHU0p9UItlMtlxNN87VXgpTKkfY3auBQf-2tfdpkmB-yjSZ8SjgMSDO0r1imZ-Mobmde4wlFlF_FxpnRd10r_tq3aSMmOODGllpo-PGknNlIROnqsl6GlbFlpZp2Yt4Fca5g5-NY070RBSNBW0pehIQcGIm2dLcRFM2zYQxmCJLxhoUJPb6EMLhSbCkuX16ik0xUcgotdQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8781136,
+               "lng" : -87.6297982
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.023131,
+                  "lng" : -87.52366099999999
+               },
+               "southwest" : {
+                  "lat" : 41.6443349,
+                  "lng" : -87.9402669
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "53eeb015d61056c54245a909c79862532fc953ad",
+         "name" : "Chicago",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107348781382314805833\"\u003eБогдан Ткач\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5HNJ81r6mZXJGB6mQB0XGiRgHfxjGpG8EE3axoZEEoEle-ml0DbmK9aTh0CQ5FtQcI5now6wvqlyJzOomC3FLzKmYxQ8oGd58QjGBwUIEQc8ogx-xEUfvXMpL6ycZJL9EhAsN4MgnNCRJLaY_uz4qv1oGhS4vfmyLVCuRCq0vwnBLLLXYpeNDg",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ7cv00DwsDogRAMDACa2m4K8",
+         "reference" : "ChIJ7cv00DwsDogRAMDACa2m4K8",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8900888,
+               "lng" : -87.78881369999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8914448802915,
+                  "lng" : -87.7870582697085
+               },
+               "southwest" : {
+                  "lat" : 41.8887469197085,
+                  "lng" : -87.7897562302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "b40123e3b231d2cbd015d85b76f5b10a0a99490d",
+         "name" : "Oak Park and River Forest High School",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104911486630797285592\"\u003eBob Dame\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAb7feqIntj0AS6uZy2qAMOaDptRinWX54mbWSgd6Ut1iH2vNqFH648ZiDdoT17ltETsKarB4R13Zum9JY82kU9TQaAHhUSkGjLV-7dXiuWSmrLmBgL_R_vno7B3B5mF31EhDOkZaUbBrW7r7s5SvIc7bJGhSz2Rm6sXgZS-nlKZ32n4MLUXpS-w",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJc5un9rA0DogRD1aHrTY8Obw",
+         "plus_code" : {
+            "compound_code" : "V6R6+2F Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6R6+2F"
+         },
+         "rating" : 4,
+         "reference" : "ChIJc5un9rA0DogRD1aHrTY8Obw",
+         "scope" : "GOOGLE",
+         "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 38,
+         "vicinity" : "201 Scoville Avenue, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8865352,
+               "lng" : -87.78827989999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8878848302915,
+                  "lng" : -87.7867434197085
+               },
+               "southwest" : {
+                  "lat" : 41.88518686970851,
+                  "lng" : -87.78944138029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a1265263b5ad7cac274a960441979f0126233530",
+         "name" : "Harvey House Bed & Breakfast",
+         "photos" : [
+            {
+               "height" : 360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110536554609929786486\"\u003eHarvey House Bed &amp; Breakfast\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_n-5Tvbi94fkZPlonRzAk2gPQNFow2xtRvX6y463Ih_ZwNy1WID0EoKICk8g6ZXKtDcVKHwu3UD-w1WyFxHlybbvavqFe6FQLLnlZDtgtOs7xS9dKI2CDBCeHhMpY5rpEhB8HyohKNFEcVKhf733csXHGhRzukGG9VzivWnBvTGoitwJbL9z8g",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ4x6R-bo0DogR0cuB7u8h9Pg",
+         "plus_code" : {
+            "compound_code" : "V6P6+JM Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6P6+JM"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ4x6R-bo0DogR0cuB7u8h9Pg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 55,
+         "vicinity" : "107 South Scoville Avenue, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8814693,
+               "lng" : -87.78878659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8829020802915,
+                  "lng" : -87.78744061970849
+               },
+               "southwest" : {
+                  "lat" : 41.8802041197085,
+                  "lng" : -87.7901385802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "cca2bed8ecee91c13734b464a84dddb0357d8392",
+         "name" : "Fenwick High School",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110380205728749013006\"\u003eFenwick High School\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA717n5aPjAfleKqjS0NwkZjnP6TxUoorhp3z44NvcbZP4y_5uGP8ZhMNbRE4_FT0ijrExsUPcIl7jHIbQXo-hJFxWTubQKwTxqoB0giepbqSDxkCVF2mN7lrbnk49rwfQEhAqmCyqXIvY-8i9T4LAMMrtGhQvelMkOYB0KBY7mLAzBIHnCpz0-w",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJT4pGKLI0DogRzflh9W6MpmM",
+         "plus_code" : {
+            "compound_code" : "V6J6+HF Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6J6+HF"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJT4pGKLI0DogRzflh9W6MpmM",
+         "scope" : "GOOGLE",
+         "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "505 Washington Boulevard, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.886028,
+               "lng" : -87.793983
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8873816302915,
+                  "lng" : -87.79285986970849
+               },
+               "southwest" : {
+                  "lat" : 41.8846836697085,
+                  "lng" : -87.79555783029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3e3a0d119694e47c3eb5971090267cbcb500ff6b",
+         "name" : "Maya Del Sol",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1153,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115492008409312900049\"\u003eMaya Del Sol\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANgy7xH8Q-WQTGApUdgt-3yKcm34eCyqNicknJfgPJPjp30LUotzbQDijXPQf_wc1jDcS2fZbOW1o3cLn7qwYbuk_FKoL7ivV1frunvxD90g9z8qyH_nECtumEvKKkBmyEhAvucVNBAY0gKFA3ucgMFFQGhQ3uNsGOTxVmf72EuQrJgIl8f_7Vg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJm4mV9rg0DogR1FhvC4jwu5o",
+         "plus_code" : {
+            "compound_code" : "V6P4+CC Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6P4+CC"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJm4mV9rg0DogR1FhvC4jwu5o",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 975,
+         "vicinity" : "144 South Oak Park Avenue, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.88824699999999,
+               "lng" : -87.794887
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.88959823029149,
+                  "lng" : -87.79334816970848
+               },
+               "southwest" : {
+                  "lat" : 41.8869002697085,
+                  "lng" : -87.7960461302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c7e94e502175eb9287adcc19b8ebc347cbea57e9",
+         "name" : "Emelita C. Co, MD",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJB-PpNug0DogRUFEq0p9DyRY",
+         "plus_code" : {
+            "compound_code" : "V6Q4+72 Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6Q4+72"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJB-PpNug0DogRUFEq0p9DyRY",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "137 North Oak Park Avenue #125, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8829339,
+               "lng" : -87.78415369999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8842799302915,
+                  "lng" : -87.78299881970848
+               },
+               "southwest" : {
+                  "lat" : 41.8815819697085,
+                  "lng" : -87.7856967802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a1a167e27e71b1e12c96f98ae33f0806a863004c",
+         "name" : "SGF Associates Inc",
+         "place_id" : "ChIJLdI7eqM0DogREmKk4k2BWN4",
+         "plus_code" : {
+            "compound_code" : "V6M8+58 Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6M8+58"
+         },
+         "reference" : "ChIJLdI7eqM0DogREmKk4k2BWN4",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "312 South Ridgeland Avenue, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8812718,
+               "lng" : -87.78340439999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8826116802915,
+                  "lng" : -87.7825980197085
+               },
+               "southwest" : {
+                  "lat" : 41.8799137197085,
+                  "lng" : -87.78529598029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "d5b7c29b9c178098bd3c9def43204b4e65238bf3",
+         "name" : "Percy Julian Middle School",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100397163836368717696\"\u003eBharti Raizada\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAINo8Ia_P5CitBAOGMCq-NRYzecIoW--NPJKC1gdpJqjdRLrUyN4icUPrs1U0TCeF1rjqwvLUNQyE8PtkOBSGOAFGUxnsMT-pasF6-fvqyGYR6OdX5n4SxenXD8jldHa7EhAAx4Ar9rafmO3pY933ZMEOGhS_-GOHsN21V0OewCwvtfakPa30Zg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJwRt1HaM0DogRO_ZEbYCuY9s",
+         "plus_code" : {
+            "compound_code" : "V6J8+GJ Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6J8+GJ"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJwRt1HaM0DogRO_ZEbYCuY9s",
+         "scope" : "GOOGLE",
+         "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25,
+         "vicinity" : "416 South Ridgeland Avenue, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.88849310000001,
+               "lng" : -87.78033409999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8899922302915,
+                  "lng" : -87.77899241970849
+               },
+               "southwest" : {
+                  "lat" : 41.8872942697085,
+                  "lng" : -87.78169038029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c95f230887be7bbbb35dcba8b7e8d9e4f3e2d0dc",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJvTBRHqY0DogRvaXLNVEW-pA",
+         "plus_code" : {
+            "compound_code" : "V6Q9+9V Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6Q9+9V"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJvTBRHqY0DogRvaXLNVEW-pA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 61,
+         "vicinity" : "208 West Lake Street, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8791685,
+               "lng" : -87.7787745
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.88043803029149,
+                  "lng" : -87.7774244197085
+               },
+               "southwest" : {
+                  "lat" : 41.87774006970849,
+                  "lng" : -87.7801223802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "abe7eedf99ddb8e1fe262975ff088fed35ad28e1",
+         "name" : "Village of Oak Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 602,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112249965384442240490\"\u003eVillage of Oak Park\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQJdTykGX9nRbQHiSbA7C5wD7nK2RU_xW55-UfbRFyZEThXAuC-f8r3BlCrtjESYmTlisTAanlPSEU4QsqVHVIqjt9lutGvec3UsmQ_uCEUDA8vRIMYhzZ3F_yd5yIFRiEhC8wYf8qM4eCN0j3sW5aW7zGhQ2OWKOoaGWRULD20uU7ENA27mE_g",
+               "width" : 1008
+            }
+         ],
+         "place_id" : "ChIJN5kNQqA0DogRJhMvFYKvkQM",
+         "plus_code" : {
+            "compound_code" : "V6HC+MF Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6HC+MF"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJN5kNQqA0DogRJhMvFYKvkQM",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 53,
+         "vicinity" : "123 Madison Street, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.888246,
+               "lng" : -87.794675
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8895959802915,
+                  "lng" : -87.79324211970849
+               },
+               "southwest" : {
+                  "lat" : 41.8868980197085,
+                  "lng" : -87.79594008029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "164a284705b9d507fa407678be5ad5ab34651db4",
+         "name" : "Wesley C. Wise, DDS & Assoc., LTD",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104285095770881201653\"\u003eWesley C. Wise, DDS &amp; Assoc., LTD\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYLv_Yv2q5mV-DSnbT4mzKG1VrIoqJkn6AcAoYgLaFfrIG5WzauUAyczwZ1_CQ_7s2pG2g2rVwzPsI3lvam0t9UIQ2EwAuVy_DcWJWaerlK1WHvM6Rr1l15a8tQKvNbbgEhDATlaFE5Evls_UyjYYw5-FGhRu-WbpRqTRB80sAdE9vSsUfE6Q0w",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJFT8jIbg0DogR3CVB-eu63B8",
+         "plus_code" : {
+            "compound_code" : "V6Q4+74 Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6Q4+74"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJFT8jIbg0DogR3CVB-eu63B8",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 83,
+         "vicinity" : "137 North Oak Park Avenue, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.88824589999999,
+               "lng" : -87.7946754
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8895958802915,
+                  "lng" : -87.7932423197085
+               },
+               "southwest" : {
+                  "lat" : 41.8868979197085,
+                  "lng" : -87.7959402802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6d0893f1a5e5c4adf88b74f7923e63deac39ab6e",
+         "name" : "The Law Office of Jennifer A. Pritz",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3088,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114202701685188412197\"\u003eThe Law Office of Jennifer A. Pritz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFZBHPGRNdA14Rjslm1xEGae0NncOPYMN8SO9A71fWlhFnwwvXEwHoN_dGUCe4S3M0-SJJMAFVkvhP97wMBbV5IYDQ5TShLZck-mPUT0sGxg7iz9mtnhbI67Pr5xX_64VEhDaatwXW7dS2rwe0XGc3Ci1GhT27oMHtBO0Dcnt0pvNqbC0WW9APw",
+               "width" : 2320
+            }
+         ],
+         "place_id" : "ChIJFT8jIbg0DogR7lbNPHUnU-k",
+         "plus_code" : {
+            "compound_code" : "V6Q4+74 Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6Q4+74"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJFT8jIbg0DogR7lbNPHUnU-k",
+         "scope" : "GOOGLE",
+         "types" : [ "lawyer", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "137 North Oak Park Avenue #216, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8863248,
+               "lng" : -87.79469089999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8876759802915,
+                  "lng" : -87.79321906970848
+               },
+               "southwest" : {
+                  "lat" : 41.88497801970851,
+                  "lng" : -87.79591703029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c00a8b16a71abd33b8f677668b4a69f61b3e5c42",
+         "name" : "Grape Leaves Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3364,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114598230613163585901\"\u003eGrape Leaves Restaurant\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1e2SLOzdDaO6gemLXVXZ5LoCBzPCeid5S4-j2teZ5xwjNiq9LH47mIuU6tVgP0ZQxVRCdGw9MzEuH8M3WkurVY8dmqV09GQYg7PDk6O1imwfi-8jxR8bkFQIXHiyt05AEhBxNZiMDUGWgUnKu6M4AR5iGhR5h8fSGR_aK0oDKs-T8KbZ_sAGDQ",
+               "width" : 5981
+            }
+         ],
+         "place_id" : "ChIJ-eHkXrg0DogRk3Z0okEUtQc",
+         "plus_code" : {
+            "compound_code" : "V6P4+G4 Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6P4+G4"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJ-eHkXrg0DogRk3Z0okEUtQc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 250,
+         "vicinity" : "129 South Oak Park Avenue, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8883885,
+               "lng" : -87.79345169999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8898498802915,
+                  "lng" : -87.79209251970849
+               },
+               "southwest" : {
+                  "lat" : 41.8871519197085,
+                  "lng" : -87.7947904802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "e8da98888a21490cfb1802c691dd5388b98c6511",
+         "name" : "Caring Medical Regenerative Medicine Clinics",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1333,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100469413590900379073\"\u003eCaring Medical Regenerative Medicine Clinics\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-RIIrnhT8y8RcuTa3Fj-o3Nm9aqsLXh0ZuUJNbIwun97bT8cgE9TfJGV5aQc8MZhcMfZNaHlU6Nh04iX77JXLSx8OSJyWDM6GFT3GsjDZjkmtxOYbWKf9IL_wcA-NAQtEhC12vzVD7L2NKZdYbW1OmQdGhQcYo67jaMT0tdHqK5LAfbZUxrADQ",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJERBLK7g0DogRTPxdW6FSn_A",
+         "plus_code" : {
+            "compound_code" : "V6Q4+9J Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6Q4+9J"
+         },
+         "rating" : 5,
+         "reference" : "ChIJERBLK7g0DogRTPxdW6FSn_A",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "715 Lake Street #600, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.88824699999999,
+               "lng" : -87.794887
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.88959823029149,
+                  "lng" : -87.79334816970848
+               },
+               "southwest" : {
+                  "lat" : 41.8869002697085,
+                  "lng" : -87.7960461302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8ddcb29603851bfc4c88432f84f64c3d9784b4de",
+         "name" : "Sage Neuropsychology Consultants",
+         "place_id" : "ChIJFT8jIbg0DogRrCjHfNhKrWE",
+         "plus_code" : {
+            "compound_code" : "V6Q4+72 Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6Q4+72"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJFT8jIbg0DogRrCjHfNhKrWE",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "137 North Oak Park Avenue, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8800865,
+               "lng" : -87.786446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8813644302915,
+                  "lng" : -87.78509731970848
+               },
+               "southwest" : {
+                  "lat" : 41.8786664697085,
+                  "lng" : -87.7877952802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a73d0b6d585a756f66dd539a1a325f03eb1d762f",
+         "name" : "Jewel-Osco",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113013841106856159086\"\u003eBill Brindl\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3NEIjiyVcYMYhBNCPwgVd6TPdi3wOiXI1vm8otmt6OHGg5JZI-4hz0UfMSv7SDjI9GzatvW3pW0vA-MBYwq_BWUteL-j76sUdxKKhm-lZ-A5anzSnNv71KGzQKGbKfv9EhCFWaDM-szhdRJ8fBKvHVhpGhRi9xrCFGYDeGp9fltL2c1Vrydacw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ-dXvPL00DogRR3ozJKXng1Q",
+         "plus_code" : {
+            "compound_code" : "V6J7+2C Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6J7+2C"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ-dXvPL00DogRR3ozJKXng1Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 854,
+         "vicinity" : "438 West Madison Street, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.88823499999999,
+               "lng" : -87.79477899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8895855802915,
+                  "lng" : -87.79329401970848
+               },
+               "southwest" : {
+                  "lat" : 41.8868876197085,
+                  "lng" : -87.79599198029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "b18bd623deffbaf1c74fccf17a3b6ce924479569",
+         "name" : "Kumon Math and Reading Center of Oak Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112594688673796408688\"\u003eKumon Math and Reading Center of Oak Park\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQgi_AV0c-kCQ5KrI9vyth4WuHJCtjMSHDvkZPWlfS4rnENo64BnhiqVnhGZNlcg2uhT2Ow-KxAImzO-GhxHeJSrNCXOxi3xtTgGnrNUMiKpSjHT6rGBUs7Wn0M9L8MrAEhAOST8SIdGv0K7n-3Jz47KLGhQYVnRpquNVDWRn9chKMpAeAxMVcQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJpeHCGLg0DogRz5WPAAnTN08",
+         "plus_code" : {
+            "compound_code" : "V6Q4+73 Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6Q4+73"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJpeHCGLg0DogRz5WPAAnTN08",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "137 North Oak Park Avenue Suite #101, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8802402,
+               "lng" : -87.7814808
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.88147973029149,
+                  "lng" : -87.78012791970848
+               },
+               "southwest" : {
+                  "lat" : 41.8787817697085,
+                  "lng" : -87.7828258802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "797a8cefce6423a438d9457653ba16228c8edbd5",
+         "name" : "Oak Park Animal Hospital Ltd",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110244695603202944303\"\u003eJody Hanson\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA47KLLnN-WECnbWNNhNjeIIqRfH3067KoBas1N-lbwgEVRI0FDeTf5ahnZy4VlZOYsLUWOWmAkNqSCbGuYweZ5P_YGA22eQU7A074fuXkYas7uWbbXEIUkMJQSYgnzrB4EhCbmCy499xjrOsGWB8b_ssNGhSx4ybVf9BEbWUULIOJ6NdWwzJigA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJMxIkjqE0DogRw2mWc8dq-i8",
+         "plus_code" : {
+            "compound_code" : "V6J9+3C Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6J9+3C"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJMxIkjqE0DogRw2mWc8dq-i8",
+         "scope" : "GOOGLE",
+         "types" : [ "veterinary_care", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "60304, 242 Madison Street, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8882488,
+               "lng" : -87.7947829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8895994302915,
+                  "lng" : -87.79329611970849
+               },
+               "southwest" : {
+                  "lat" : 41.8869014697085,
+                  "lng" : -87.79599408029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3bb8cc4607f5922e08b027f5885fb31d40c25c28",
+         "name" : "Artemis Laser and Vein",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 375,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102459004962228924369\"\u003eArtemis Laser and Vein\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9p20mDATky8ndOKMESd9Zo61U5X5BInCynHO0wpX0v9QSB95Tx31uYPO6Vso5mmXFk8s-vMVW5tnulYVWQScOOfqCBT_hyTgEVocsymq61xiJCpUBUUsus8K6QsjDLkBEhC4u6_ZLcmn8IDyilFk4fTOGhTtNVrUKtLXwFnwzH8jkSWrUwu04Q",
+               "width" : 755
+            }
+         ],
+         "place_id" : "ChIJpeHCGLg0DogRk8dOA8-1ACo",
+         "plus_code" : {
+            "compound_code" : "V6Q4+73 Oak Park, Oak Park Township, IL, États-Unis",
+            "global_code" : "86HJV6Q4+73"
+         },
+         "reference" : "ChIJpeHCGLg0DogRk8dOA8-1ACo",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "137 North Oak Park Avenue, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8850317,
+               "lng" : -87.7845025
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.90933090000001,
+                  "lng" : -87.774057
+               },
+               "southwest" : {
+                  "lat" : 41.864931,
+                  "lng" : -87.805859
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "442e58acaa8f246bae0e32542de2ad85f3876995",
+         "name" : "Oak Park",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103717808240329478554\"\u003eDonna Peet-Laurenti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFabpTfIg1IzeIng0Hqebh1L9gfEosojP-2aZdrpzuPx_ie-j6PVK896OFXiA6j3eraa1E3rcFXJf7k8kIe0eoNjw7XwG6N85ZCTbMoebo0zu42jMXnPqZ4CG99gKqiuiEhASSAD05b7LX_HthQNMNQFKGhScsDUR8C01hlxOUobp5fPJTPT-9Q",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJh7cdP7o0DogRqK7U1X2NWN8",
+         "reference" : "ChIJh7cdP7o0DogRqK7U1X2NWN8",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Oak Park"
+      }
+   ],
+   "status" : "OK"
+}

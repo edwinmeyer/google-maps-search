@@ -1,0 +1,19 @@
+search_profiles:
+  -
+    name: 'Search Profile A'
+    type: atm
+    language_code: en
+    output_format: xml
+    locations_count: 200
+  -
+    name: 'Search Profile B'
+    type: bank
+    language_code: es
+    output_format: json
+    locations_count: 20
+  -
+    name: 'Search Profile C'
+    type: all
+    language_code: fr
+    output_format: json
+    locations_count: 5

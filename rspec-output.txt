@@ -1,0 +1,22 @@
+RSpec Output testing GoogleMapsSearch
+
+$ rspec spec/google_maps_search_spec.rb --format doc
+
+GoogleMapsSearch
+  check_params
+    raises no error with valid latitude & longitude
+    raises an error for invalid latitude,53.87
+    raises an error for 45.77,invalid longitude
+    raises an error for 91,53.87
+    raises an error for -91,53.87
+    raises an error for 45.77,181
+    raises an error for 45.77,-181
+  compose_search_url has correct components
+    sets the type as 'bank'
+    sets the language as 'es'
+    sets the output format as 'json'
+    correctly sets the location
+    sets a valid radius
+
+Finished in 0.02763 seconds (files took 1.11 seconds to load)
+12 examples, 0 failures

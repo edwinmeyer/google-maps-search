@@ -1,0 +1,154 @@
+Google Maps Search near latitude 41.885033, longitude -87.784500 for Search Profile B:
+
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.88760509999999,
+               "lng" : -87.79423949999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.88895198029149,
+                  "lng" : -87.79301481970849
+               },
+               "southwest" : {
+                  "lat" : 41.8862540197085,
+                  "lng" : -87.7957127802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "3917cbd6ebf07deb2f173af01a94243dc147a510",
+         "name" : "U.S. Bank Branch",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100691869505764266709\"\u003eFloyydd Mumford\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4AsdJv35dLUjCMx2xp8_jtrfGqgvAsLTt5WuE7DwOT5PDe2feESuJrjIOT_H4Y1tUFD9RpQob_MgyI8wweOHHihGzT9sI15DQBd0lwlMQ3svTt4gPAD7W4kd9EV43roWEhAVK5vutAixBJpUmwVqgdKhGhQYni-LwKmDXP1W9HNfQyRFsYuf6A",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJKykQObg0DogRc7yvpgkOJCM",
+         "plus_code" : {
+            "compound_code" : "V6Q4+28 Oak Park, Oak Park Township, IL, Estados Unidos",
+            "global_code" : "86HJV6Q4+28"
+         },
+         "rating" : 1.7,
+         "reference" : "ChIJKykQObg0DogRc7yvpgkOJCM",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "104 North Oak Park Avenue, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8797946,
+               "lng" : -87.7751866
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8812556302915,
+                  "lng" : -87.77382331970848
+               },
+               "southwest" : {
+                  "lat" : 41.8785576697085,
+                  "lng" : -87.77652128029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "d5f454015f840401c4aa16603e5a199efe9724eb",
+         "name" : "U.S. Bank Branch",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJCyU9vF8zDogRmwhUg3tCNb4",
+         "plus_code" : {
+            "compound_code" : "V6HF+WW Oak Park, Oak Park Township, IL, Estados Unidos",
+            "global_code" : "86HJV6HF+WW"
+         },
+         "rating" : 2.2,
+         "reference" : "ChIJCyU9vF8zDogRmwhUg3tCNb4",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "11 Madison Street, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8875633,
+               "lng" : -87.7942589
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8889103302915,
+                  "lng" : -87.79302386970851
+               },
+               "southwest" : {
+                  "lat" : 41.8862123697085,
+                  "lng" : -87.79572183029153
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "18257b3b811cbe014878fe70f42caae1ebd42e7b",
+         "name" : "U.S. Bank ATM - Oak Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ9V-rMLg0DogRLtN2Mfps2nM",
+         "plus_code" : {
+            "compound_code" : "V6Q4+27 Oak Park, Oak Park Township, IL, Estados Unidos",
+            "global_code" : "86HJV6Q4+27"
+         },
+         "reference" : "ChIJ9V-rMLg0DogRLtN2Mfps2nM",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "104 North Oak Park Avenue, Oak Park"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8797951,
+               "lng" : -87.7751803
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8811240802915,
+                  "lng" : -87.77368661970849
+               },
+               "southwest" : {
+                  "lat" : 41.8784261197085,
+                  "lng" : -87.77638458029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "f86b1489603a9b545cebc1ffe9133f52d876b141",
+         "name" : "Park National Bank",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ36g-vF8zDogR9Z4JFmaiMRM",
+         "plus_code" : {
+            "compound_code" : "V6HF+WW Oak Park, Oak Park Township, IL, Estados Unidos",
+            "global_code" : "86HJV6HF+WW"
+         },
+         "reference" : "ChIJ36g-vF8zDogR9Z4JFmaiMRM",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "11 Madison Street, Oak Park"
+      }
+   ],
+   "status" : "OK"
+}
